@@ -1,9 +1,8 @@
 # HFTBot
-## Online Stock Trader
 
 ### Project Description
 
-Online Stock Trader is a comprehensive platform that facilitates trading, investing, tracking, and reviewing stocks through a unified account. Stay informed with live streaming quotes of stocks and currencies, enabling you to navigate the fast-paced trading world efficiently. This platform supports trading across exchanges and offers personalized recommendations based on spending habits and portfolio. Additionally, users can track stocks using a customizable watch-list.
+This is a comprehensive platform that facilitates trading, investing, tracking, and reviewing stocks through a unified account. Stay informed with live streaming quotes of stocks and currencies, enabling you to navigate the fast-paced trading world efficiently. This platform supports trading across exchanges and offers personalized recommendations based on spending habits and portfolio. Additionally, users can track stocks using a customizable watch-list.
 
 ### Technologies Used
 
